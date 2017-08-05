@@ -1,0 +1,1 @@
+export * from './lib/angular2-inline-edit.directive';

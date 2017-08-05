@@ -1,0 +1,28 @@
+{
+  "name": "angular2-inline-edit",
+  "version": "1.0.0",
+  "description": "An angular2 directive for inline-edit-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdanielcox/angular2-inline-edit.git"
+  },
+  "keywords": [
+    "inline-edit-js",
+    "angular2-inline-edit",
+    "angular-inline-edit",
+    "inline-edit"
+  ],
+  "author": "Daniel Cox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tdanielcox/angular2-inline-edit/issues"
+  },
+  "homepage": "https://github.com/tdanielcox/angular2-inline-edit#readme",
+  "dependencies": {
+    "inline-edit-js": "^1.1.1"
+  }
+}
