@@ -62,7 +62,6 @@ export class YourComponent {
 ```
 
 ```html```
-// With onChange callback
 <div inlineEdit [(editable)]="editableString" [onChange]="editableChangeCallback">
     {{ editableString }}
 </div>
