@@ -22,8 +22,10 @@
     "url": "https://github.com/tdanielcox/angular2-inline-edit/issues"
   },
   "homepage": "https://github.com/tdanielcox/angular2-inline-edit#readme",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0 || ^2.0.0"
+  },
   "dependencies": {
-    "@angular/core": "^4.0.0 || ^2.0.0",
     "inline-edit-js": "^1.1.1"
   }
 }
