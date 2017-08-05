@@ -61,7 +61,7 @@ export class YourComponent {
 }
 ```
 
-```html```
+```html
 <div inlineEdit [(editable)]="editableString" [onChange]="editableChangeCallback">
     {{ editableString }}
 </div>
