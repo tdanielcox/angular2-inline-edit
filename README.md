@@ -1,3 +1,8 @@
+# This package has been deprecated, use `ngx-inline-edit` instead
+
+
+
+
 Angular2 Inline Edit
 ==============
 
