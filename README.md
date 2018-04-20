@@ -1,7 +1,6 @@
-# This package has been deprecated, use `ngx-inline-edit` instead
+## This package has been deprecated, use `tdanielcox/ngx-inline-edit` instead
 
-
-
+==============
 
 Angular2 Inline Edit
 ==============
